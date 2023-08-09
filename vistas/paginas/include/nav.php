@@ -52,8 +52,12 @@
     </style>
 
     <ul class="nav-inicial">
-        <li class="nav-li-inicial" ><a class="nav-a-inicial" href="index.php?ruta=inicio">Inicio</a></li>
         <li class="nav-li-inicial" ><a class="nav-a-inicial" href="index.php?ruta=ingreso">Ingreso</a></li>
-        <li class="nav-li-inicial" ><a class="nav-a-inicial" href="index.php?ruta=registro">Registro</a></li>
+    </ul>
+    <ul class="nav-inicial">
+        <li class="nav-li-inicial" ><a class="nav-a-inicial" href="index.php?ruta=inicio">Inicio</a></li>
+    </ul>
+    <ul class="nav-inicial">
+        <li class="nav-li-inicial" ><a class="nav-a-inicial" href="index.php?ruta=comentarios">Foro</a></li>
     </ul>
 </nav>

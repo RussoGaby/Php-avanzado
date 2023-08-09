@@ -1,0 +1,1 @@
+<div class="comentario"> <div class="contenedor_fecha" > <p> Comentario de: Gabriel</p> <p>Friday 27/7</p> </div> <div class="datos_comentarios"> <p>s</p> </div> </div>
